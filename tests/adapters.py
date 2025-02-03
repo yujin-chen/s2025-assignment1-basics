@@ -6,6 +6,7 @@ from typing import IO, BinaryIO, Iterable, Optional, Type
 
 import numpy.typing as npt
 import torch
+from ece496b_basics import BPE_Train
 
 
 def run_positionwise_feedforward(
@@ -569,4 +570,4 @@ def run_train_bpe(
                 representing that <token1> was merged with <token2>.
                 Merges are ordered by order of creation.
     """
-    raise NotImplementedError
+    return BPE_Train.train_bpe(input_path, vocab_size, special_tokens)
