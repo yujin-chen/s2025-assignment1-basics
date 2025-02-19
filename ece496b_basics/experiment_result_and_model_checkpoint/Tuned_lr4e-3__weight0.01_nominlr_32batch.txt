@@ -1,0 +1,85 @@
+Loaded checkpoint with iteration 1000
+Reset iteration counter to 0 for fine tuning.
+Iteration 0: Train Loss = 2.1440 | LR = 0.000000
+Iteration 50: Train Loss = 2.2893 | LR = 0.002000
+Iteration 50: Validation Loss = 2.2430
+Iteration 100: Train Loss = 2.5877 | LR = 0.004000
+Iteration 100: Validation Loss = 2.2785
+Iteration 150: Train Loss = 2.5232 | LR = 0.003994
+Iteration 150: Validation Loss = 2.3676
+Iteration 200: Train Loss = 2.3837 | LR = 0.003976
+Iteration 200: Validation Loss = 2.3942
+Iteration 250: Train Loss = 2.4171 | LR = 0.003946
+Iteration 250: Validation Loss = 2.3111
+Iteration 300: Train Loss = 2.4664 | LR = 0.003905
+Iteration 300: Validation Loss = 2.2282
+Iteration 350: Train Loss = 2.4518 | LR = 0.003852
+Iteration 350: Validation Loss = 2.1449
+Iteration 400: Train Loss = 2.2857 | LR = 0.003787
+Iteration 400: Validation Loss = 2.2915
+Iteration 450: Train Loss = 2.1710 | LR = 0.003713
+Iteration 450: Validation Loss = 2.2768
+Iteration 500: Train Loss = 2.3116 | LR = 0.003628
+Iteration 500: Validation Loss = 2.1073
+Iteration 550: Train Loss = 2.3081 | LR = 0.003533
+Iteration 550: Validation Loss = 2.0736
+Iteration 600: Train Loss = 2.2103 | LR = 0.003429
+Iteration 600: Validation Loss = 2.1962
+Iteration 650: Train Loss = 2.2988 | LR = 0.003316
+Iteration 650: Validation Loss = 2.2017
+Iteration 700: Train Loss = 2.1650 | LR = 0.003196
+Iteration 700: Validation Loss = 2.2051
+Iteration 750: Train Loss = 2.2105 | LR = 0.003069
+Iteration 750: Validation Loss = 2.0731
+Iteration 800: Train Loss = 2.1749 | LR = 0.002935
+Iteration 800: Validation Loss = 2.0813
+Iteration 850: Train Loss = 1.9884 | LR = 0.002796
+Iteration 850: Validation Loss = 1.9676
+Iteration 900: Train Loss = 2.1076 | LR = 0.002653
+Iteration 900: Validation Loss = 2.0348
+Iteration 950: Train Loss = 1.9830 | LR = 0.002505
+Iteration 950: Validation Loss = 2.0394
+Iteration 1000: Train Loss = 2.1928 | LR = 0.002355
+Checkpoint saved at iteration 1000
+Iteration 1000: Validation Loss = 2.0995
+Iteration 1050: Train Loss = 2.0591 | LR = 0.002203
+Iteration 1050: Validation Loss = 1.8965
+Iteration 1100: Train Loss = 2.1649 | LR = 0.002050
+Iteration 1100: Validation Loss = 1.9434
+Iteration 1150: Train Loss = 2.1247 | LR = 0.001897
+Iteration 1150: Validation Loss = 1.9857
+Iteration 1200: Train Loss = 2.1176 | LR = 0.001745
+Iteration 1200: Validation Loss = 1.9278
+Iteration 1250: Train Loss = 2.0204 | LR = 0.001595
+Iteration 1250: Validation Loss = 2.0816
+Iteration 1300: Train Loss = 2.0373 | LR = 0.001447
+Iteration 1300: Validation Loss = 1.9076
+Iteration 1350: Train Loss = 1.9262 | LR = 0.001304
+Iteration 1350: Validation Loss = 1.8970
+Iteration 1400: Train Loss = 1.9229 | LR = 0.001165
+Iteration 1400: Validation Loss = 1.7847
+Iteration 1450: Train Loss = 1.9525 | LR = 0.001031
+Iteration 1450: Validation Loss = 1.8322
+Iteration 1500: Train Loss = 2.0658 | LR = 0.000904
+Iteration 1500: Validation Loss = 1.9080
+Iteration 1550: Train Loss = 1.9214 | LR = 0.000784
+Iteration 1550: Validation Loss = 1.8333
+Iteration 1600: Train Loss = 1.8320 | LR = 0.000671
+Iteration 1600: Validation Loss = 1.9389
+Iteration 1650: Train Loss = 1.8703 | LR = 0.000567
+Iteration 1650: Validation Loss = 1.8631
+Iteration 1700: Train Loss = 1.8572 | LR = 0.000472
+Iteration 1700: Validation Loss = 1.6416
+Iteration 1750: Train Loss = 1.9927 | LR = 0.000387
+Iteration 1750: Validation Loss = 1.9764
+Iteration 1800: Train Loss = 1.8067 | LR = 0.000313
+Iteration 1800: Validation Loss = 1.6850
+Iteration 1850: Train Loss = 1.8879 | LR = 0.000248
+Iteration 1850: Validation Loss = 1.7344
+Iteration 1900: Train Loss = 1.8550 | LR = 0.000195
+Iteration 1900: Validation Loss = 1.7176
+Iteration 1950: Train Loss = 1.8442 | LR = 0.000154
+Iteration 1950: Validation Loss = 1.8020
+Iteration 2000: Train Loss = 1.8392 | LR = 0.000124
+Checkpoint saved at iteration 2000
+Iteration 2000: Validation Loss = 1.8190

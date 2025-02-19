@@ -1,0 +1,44 @@
+Loaded checkpoint with iteration 1000
+Reset iteration counter to 0 for fine tuning.
+Iteration 0: Train Loss = 9.5027 | LR = 0.000000
+Iteration 50: Train Loss = 6.0079 | LR = 0.001500
+Iteration 50: Validation Loss = 5.8664
+Iteration 100: Train Loss = 5.8754 | LR = 0.003000
+Iteration 100: Validation Loss = 5.8809
+Iteration 150: Train Loss = 5.8805 | LR = 0.002972
+Iteration 150: Validation Loss = 5.8978
+Iteration 200: Train Loss = 5.8715 | LR = 0.002890
+Iteration 200: Validation Loss = 5.8060
+Iteration 250: Train Loss = 5.8359 | LR = 0.002756
+Iteration 250: Validation Loss = 5.8262
+Iteration 300: Train Loss = 5.8308 | LR = 0.002575
+Iteration 300: Validation Loss = 5.7862
+Iteration 350: Train Loss = 5.8040 | LR = 0.002356
+Iteration 350: Validation Loss = 5.8857
+Iteration 400: Train Loss = 5.7498 | LR = 0.002105
+Iteration 400: Validation Loss = 5.7957
+Iteration 450: Train Loss = 5.8693 | LR = 0.001833
+Iteration 450: Validation Loss = 5.8490
+Iteration 500: Train Loss = 5.7979 | LR = 0.001550
+Iteration 500: Validation Loss = 5.8175
+Iteration 550: Train Loss = 5.8249 | LR = 0.001267
+Iteration 550: Validation Loss = 5.8196
+Iteration 600: Train Loss = 5.8035 | LR = 0.000995
+Iteration 600: Validation Loss = 5.8100
+Iteration 650: Train Loss = 5.8066 | LR = 0.000744
+Iteration 650: Validation Loss = 5.8584
+Iteration 700: Train Loss = 5.7790 | LR = 0.000525
+Iteration 700: Validation Loss = 5.8505
+Iteration 750: Train Loss = 5.8349 | LR = 0.000344
+Iteration 750: Validation Loss = 5.8533
+Iteration 800: Train Loss = 5.7877 | LR = 0.000210
+Iteration 800: Validation Loss = 5.8267
+Iteration 850: Train Loss = 5.8402 | LR = 0.000128
+Iteration 850: Validation Loss = 5.7855
+Iteration 900: Train Loss = 5.8261 | LR = 0.000100
+Iteration 900: Validation Loss = 5.7690
+Iteration 950: Train Loss = 5.7630 | LR = 0.000100
+Iteration 950: Validation Loss = 5.8191
+Iteration 1000: Train Loss = 5.7903 | LR = 0.000100
+Checkpoint saved at iteration 1000
+Iteration 1000: Validation Loss = 5.8322

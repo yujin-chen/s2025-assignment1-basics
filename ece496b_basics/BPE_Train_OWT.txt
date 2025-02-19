@@ -1,0 +1,8 @@
+Frequency Initialization Time: 6832.6734 seconds
+Vocabulary Initialization Time: 0.0004 seconds
+Pair Counts Initialization Time: 112.0806 seconds
+BPE Merging Time (Local Update): 69679.2041 seconds
+Total Training Time: 76623.96 seconds
+Longest Token: ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ
+Total Memory Usage (RSS): 13883.89 MB
+Memory Usage: 8482.91 MB
